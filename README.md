@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to know more
-- ⚡ Fun fact: I love to read and play football
+- ⚡ I love to read and hard music
 
 ### Connect with me:
 
