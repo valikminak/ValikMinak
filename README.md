@@ -2,7 +2,7 @@
 
 ## I'm a JavaScript Developer!
 - 🔭 I’m currently looking for a job!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to know more
 - ⚡ I love to read and hard music 🔥
